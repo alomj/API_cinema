@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b6f54bd-3d1e-46c5-b80e-3011c6eb13d8" name="Changes" comment="inittial">
-      <change beforePath="$PROJECT_DIR$/.idea/cinema.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cinema.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/cinema/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/cinema/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/cinema/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/cinema/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/cinema/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cinema/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +102,7 @@
       <workItem from="1729534985741" duration="14000" />
       <workItem from="1729535001740" duration="610000" />
       <workItem from="1729592302937" duration="923000" />
-      <workItem from="1729618174393" duration="297000" />
+      <workItem from="1729618174393" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="inittial">
       <option name="closed" value="true" />
@@ -129,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729527284826</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inittial">
+      <option name="closed" value="true" />
+      <created>1729618598674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729618598674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
