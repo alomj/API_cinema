@@ -12,6 +12,7 @@ class Movie(models.Model):
 
 class Session(models.Model):
     movie = models.ForeignKey(Movie, on_delete=models.CASCADE)
+    hall = models.IntegerField(default=1)
     date_of_session = models.DateField()
-    quantity = models.IntegerField()
+    quantity_of_tickets = models.IntegerField()
     ticket_price = models.DecimalField(max_digits=5, decimal_places=2)
